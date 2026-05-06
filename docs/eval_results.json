@@ -1,0 +1,204 @@
+{
+  "run_date": "2026-05-05T10:38:05.832483",
+  "completion_rate": "100%",
+  "routing_accuracy": "100%",
+  "avg_latency_ms": 12675,
+  "by_type": {
+    "simple": "5/5",
+    "medium": "5/5",
+    "complex": "5/5"
+  },
+  "results": [
+    {
+      "id": 1,
+      "type": "simple",
+      "completed": true,
+      "routing_correct": true,
+      "tools_called": [
+        "list_emails"
+      ],
+      "latency_ms": 6387.0,
+      "response_len": 484,
+      "status": "complete"
+    },
+    {
+      "id": 2,
+      "type": "simple",
+      "completed": true,
+      "routing_correct": true,
+      "tools_called": [
+        "list_events"
+      ],
+      "latency_ms": 5939.7,
+      "response_len": 456,
+      "status": "complete"
+    },
+    {
+      "id": 3,
+      "type": "simple",
+      "completed": true,
+      "routing_correct": true,
+      "tools_called": [
+        "search_pages"
+      ],
+      "latency_ms": 11647.0,
+      "response_len": 776,
+      "status": "complete"
+    },
+    {
+      "id": 4,
+      "type": "simple",
+      "completed": true,
+      "routing_correct": true,
+      "tools_called": [
+        "get_free_slots"
+      ],
+      "latency_ms": 7704.6,
+      "response_len": 511,
+      "status": "complete"
+    },
+    {
+      "id": 5,
+      "type": "simple",
+      "completed": true,
+      "routing_correct": true,
+      "tools_called": [
+        "list_emails"
+      ],
+      "latency_ms": 12442.2,
+      "response_len": 1212,
+      "status": "complete"
+    },
+    {
+      "id": 6,
+      "type": "medium",
+      "completed": true,
+      "routing_correct": true,
+      "tools_called": [
+        "list_emails"
+      ],
+      "latency_ms": 14923.0,
+      "response_len": 1891,
+      "status": "complete"
+    },
+    {
+      "id": 7,
+      "type": "medium",
+      "completed": true,
+      "routing_correct": true,
+      "tools_called": [
+        "list_events",
+        "get_free_slots"
+      ],
+      "latency_ms": 8987.3,
+      "response_len": 671,
+      "status": "complete"
+    },
+    {
+      "id": 8,
+      "type": "medium",
+      "completed": true,
+      "routing_correct": true,
+      "tools_called": [
+        "list_emails",
+        "list_events"
+      ],
+      "latency_ms": 16610.3,
+      "response_len": 1763,
+      "status": "complete"
+    },
+    {
+      "id": 9,
+      "type": "medium",
+      "completed": true,
+      "routing_correct": true,
+      "tools_called": [
+        "check_conflicts"
+      ],
+      "latency_ms": 5936.9,
+      "response_len": 367,
+      "status": "complete"
+    },
+    {
+      "id": 10,
+      "type": "medium",
+      "completed": true,
+      "routing_correct": true,
+      "tools_called": [
+        "list_emails",
+        "list_emails"
+      ],
+      "latency_ms": 20542.8,
+      "response_len": 1669,
+      "status": "complete"
+    },
+    {
+      "id": 11,
+      "type": "complex",
+      "completed": true,
+      "routing_correct": true,
+      "tools_called": [
+        "list_emails",
+        "list_events"
+      ],
+      "latency_ms": 18854.9,
+      "response_len": 2118,
+      "status": "complete"
+    },
+    {
+      "id": 12,
+      "type": "complex",
+      "completed": true,
+      "routing_correct": true,
+      "tools_called": [
+        "list_emails",
+        "search_pages",
+        "get_page",
+        "list_events"
+      ],
+      "latency_ms": 21058.8,
+      "response_len": 1890,
+      "status": "complete"
+    },
+    {
+      "id": 13,
+      "type": "complex",
+      "completed": true,
+      "routing_correct": true,
+      "tools_called": [
+        "list_events",
+        "get_free_slots"
+      ],
+      "latency_ms": 9364.0,
+      "response_len": 697,
+      "status": "complete"
+    },
+    {
+      "id": 14,
+      "type": "complex",
+      "completed": true,
+      "routing_correct": true,
+      "tools_called": [
+        "list_emails",
+        "list_events",
+        "search_pages"
+      ],
+      "latency_ms": 15934.4,
+      "response_len": 1795,
+      "status": "complete"
+    },
+    {
+      "id": 15,
+      "type": "complex",
+      "completed": true,
+      "routing_correct": true,
+      "tools_called": [
+        "list_emails",
+        "list_emails"
+      ],
+      "latency_ms": 13795.7,
+      "response_len": 783,
+      "status": "complete"
+    }
+  ]
+}
